@@ -182,8 +182,9 @@ The comprehensive project report includes:
 ### Installation Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Maira-Tanveer
-   cd cinema-management-system
+  git clone https://github.com/Maira-Tanveer/cinema-management-system.git
+  cd cinema-management-system
+
    ```
 
 2. **Create Database**
