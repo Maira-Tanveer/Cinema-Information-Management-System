@@ -180,12 +180,8 @@ The comprehensive project report includes:
 - Basic understanding of T-SQL
 
 ### Installation Steps
-1. **Clone the repository**
-   ```bash
-  git clone https://github.com/Maira-Tanveer/cinema-management-system.git
-  cd cinema-management-system
 
-   ```
+
 
 2. **Create Database**
    ```sql
