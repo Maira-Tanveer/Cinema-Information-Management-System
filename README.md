@@ -183,18 +183,18 @@ The comprehensive project report includes:
 
 
 
-2. **Create Database**
+ **Create Database**
    ```sql
    CREATE DATABASE CinemaManagementDB;
    USE CinemaManagementDB;
    ```
 
-3. **Execute Scripts in Order**
+ **Execute Scripts in Order**
    - Run `01_Table_Creation.sql`
    - Run `02_Data_Insertion.sql`
    - Test with `03_Sample_Queries.sql`
 
-4. **Verify Installation**
+ **Verify Installation**
    ```sql
    SELECT COUNT(*) FROM Movies;
    SELECT COUNT(*) FROM Customers;
