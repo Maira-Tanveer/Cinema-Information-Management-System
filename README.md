@@ -150,7 +150,7 @@ ORDER BY utilization_percentage DESC;
 ## 📄 Documentation
 
 ### 📥 Project Report
-**[📄 Download Full Report (PDF)](CinemaDB_Project_Report.pdf)**
+**[📄 Download Full Report (PDF)](Cinema%20Information%20Management%20System.pdf)**
 
 The comprehensive project report includes:
 - **Executive Summary** of the cinema management system
