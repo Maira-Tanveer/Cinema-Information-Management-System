@@ -146,8 +146,6 @@ ORDER BY utilization_percentage DESC;
 | **🎓 Department** | Computer Science |
 | **👩‍💻 Team Members** | Jaweria Fayyaz, Maira Tanveer |
 | **📆 Semester** | 4th Semester, BSCS |
-| **📅 Submission Date** | [Insert Date] |
-| **👨‍🏫 Instructor** | [Insert Instructor Name] |
 
 ## 📄 Documentation
 
